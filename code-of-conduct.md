@@ -1,14 +1,14 @@
-# GDG on Campus — Community Code of Conduct
+# GDG on Campus TIU — Community Code of Conduct
 
 **Effective Date:** 03 October 2026  
-**Maintained By:** GDG on Campus Organizing Team  
+**Maintained By:** GDG on Campus TIU Organizing Team  
 **Contact:** [gdgoncampustiu@gmail.com](mailto:gdgoncampustiu@gmail.com)
 
 ## TL;DR
 
-GDG on Campus is committed to maintaining a respectful, inclusive, safe, and professional environment for everyone participating in the community.
+GDG on Campus TIU is committed to maintaining a respectful, inclusive, safe, and professional environment for everyone participating in the community.
 
-By participating in GDG on Campus community spaces, activities, or events, participants are expected to:
+By participating in GDG on Campus TIU community spaces, activities, or events, participants are expected to:
 
 - Treat all community members with respect and dignity.
 - Communicate professionally and constructively.
@@ -22,7 +22,7 @@ By participating in GDG on Campus community spaces, activities, or events, parti
 - Report concerns or violations through the designated reporting channels.
 - Refrain from retaliation against anyone who makes a good-faith report or participates in the resolution of an incident.
 
-This Code of Conduct applies across **all GDG on Campus community spaces, activities, events, and official representations**, whether online or offline.
+This Code of Conduct applies across **all GDG on Campus TIU community spaces, activities, events, and official representations**, whether online or offline.
 
 If you are unsure whether conduct is appropriate or whether an incident should be reported, you are encouraged to contact a designated community representative for guidance.
 
@@ -30,17 +30,17 @@ If you are unsure whether conduct is appropriate or whether an incident should b
 
 ## 1. Purpose
 
-GDG on Campus is a community built around learning, collaboration, technology, and knowledge sharing.
+GDG on Campus TIU is a community built around learning, collaboration, technology, and knowledge sharing.
 
 We want every member to be able to participate, learn, ask questions, share ideas, build projects, attend events, and connect with others in a safe, respectful, inclusive, and professional environment.
 
-This Code of Conduct establishes the standards of behavior expected from everyone participating in the GDG on Campus community and provides a framework for addressing conduct that is inconsistent with those standards.
+This Code of Conduct establishes the standards of behavior expected from everyone participating in the GDG on Campus TIU community and provides a framework for addressing conduct that is inconsistent with those standards.
 
 This Code of Conduct is intended to create a professional community where individuals can disagree, provide feedback, learn from mistakes, and collaborate without fear of harassment, discrimination, intimidation, or abuse.
 
 ## 2. Scope
 
-This Code of Conduct applies to all GDG on Campus community spaces, activities, and representations, whether online or offline.
+This Code of Conduct applies to all GDG on Campus TIU community spaces, activities, and representations, whether online or offline.
 
 This includes, but is not limited to:
 
@@ -52,9 +52,9 @@ This includes, but is not limited to:
 - Hackathons, coding competitions, and project showcases
 - Social gatherings and community-related activities
 - Online meetings, webinars, and virtual events
-- Communication between community members in connection with GDG on Campus activities
+- Communication between community members in connection with GDG on Campus TIU activities
 - Venues or locations used for community activities
-- Any activity where an individual is officially representing GDG on Campus
+- Any activity where an individual is officially representing GDG on Campus TIU
 
 The Code of Conduct applies regardless of the platform, location, or format in which the interaction takes place.
 
@@ -227,7 +227,7 @@ Community spaces must not be used for:
 
 ### 5.9 Misrepresentation
 
-Members must not falsely represent themselves as organizers, official representatives, sponsors, speakers, partners, or other authorized representatives of GDG on Campus.
+Members must not falsely represent themselves as organizers, official representatives, sponsors, speakers, partners, or other authorized representatives of GDG on Campus TIU.
 
 Official community communication should only be issued through authorized channels or representatives.
 
@@ -261,7 +261,7 @@ The fact that a communication platform is informal does not make the Code of Con
 
 ## 7. Events and Physical Community Spaces
 
-At GDG on Campus events, participants are expected to follow:
+At GDG on Campus TIU events, participants are expected to follow:
 
 - This Code of Conduct
 - Event-specific rules and instructions
@@ -414,7 +414,7 @@ Retaliation may result in separate disciplinary action.
 
 ## 15. Disagreements and Constructive Debate
 
-GDG on Campus is a technical and learning community. Differences of opinion are expected and healthy.
+GDG on Campus TIU is a technical and learning community. Differences of opinion are expected and healthy.
 
 Members are free to:
 
@@ -472,7 +472,7 @@ If a situation involves an immediate threat to someone's safety, seek appropriat
 
 ## 18. Applicability to Representatives
 
-This Code of Conduct also applies when an individual is representing GDG on Campus outside a formal community event.
+This Code of Conduct also applies when an individual is representing GDG on Campus TIU outside a formal community event.
 
 Examples include:
 
@@ -480,13 +480,13 @@ Examples include:
 - Representing the community at another event
 - Using an official community account
 - Communicating with sponsors or partners as a community representative
-- Representing GDG on Campus in an official capacity
+- Representing GDG on Campus TIU in an official capacity
 
 The community's name or affiliation must not be used to justify conduct that violates this Code of Conduct.
 
 ## 19. Updates to This Code
 
-This Code of Conduct may be reviewed and updated by the GDG on Campus organizing team when necessary.
+This Code of Conduct may be reviewed and updated by the GDG on Campus TIU organizing team when necessary.
 
 Significant changes should be communicated to the community through appropriate official channels.
 
@@ -494,13 +494,13 @@ The latest published version is the version applicable to community activities, 
 
 ## 20. Acknowledgement
 
-By participating in GDG on Campus activities or community spaces, you are expected to read, understand, and follow this Code of Conduct.
+By participating in GDG on Campus TIU activities or community spaces, you are expected to read, understand, and follow this Code of Conduct.
 
 Participation in the community is a privilege shared with the responsibility to help maintain a respectful, safe, inclusive, and constructive environment for everyone.
 
 ### Reporting Contact
 
-**GDG on Campus:** Techno India University
+**GDG on Campus TIU:** Techno India University
 **Email:** [gdgoncampustiu@gmail.com](mailto:gdgoncampustiu@gmail.com)  
 **Community Lead:** Krish Goenka
 
